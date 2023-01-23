@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bf36241c5bf70a042828617e80d7ae92, type: 3}
+  m_Name: Card 8
+  m_EditorClassIdentifier: 
+  cardImage: {fileID: 21300000, guid: 4fdb9c5c005f1cd42836c9a23e760d40, type: 3}
+  cardName: Red Destroyer
+  manaCost: 3
+  cardStrategy: 0
+  cardEffect:
+  - {fileID: 11400000, guid: bd7b3b51e65d6a14682a40db0fb6570f, type: 2}
+  - {fileID: 11400000, guid: f9a9f007b8eda024088765f3525ed991, type: 2}
+  - {fileID: 11400000, guid: 4664fbaf51fc04e42910c6e28caea618, type: 2}
+  cardColor: 3
+  overrideescription: 
+  displayAttackStat: 1

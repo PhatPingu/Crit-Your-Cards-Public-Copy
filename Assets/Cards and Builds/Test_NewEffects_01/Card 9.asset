@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bf36241c5bf70a042828617e80d7ae92, type: 3}
+  m_Name: Card 9
+  m_EditorClassIdentifier: 
+  cardImage: {fileID: 21300000, guid: c7f658eccb4da7b4fb900634436dd029, type: 3}
+  cardName: Dark Fire
+  manaCost: 3
+  cardStrategy: 0
+  cardEffect:
+  - {fileID: 11400000, guid: a9db8fbe2f198304dbd79f337b0589f2, type: 2}
+  - {fileID: 11400000, guid: cca9ac94652b4a645967b5e63119d5f7, type: 2}
+  - {fileID: 11400000, guid: 4664fbaf51fc04e42910c6e28caea618, type: 2}
+  cardColor: 3
+  overrideescription: 
+  displayAttackStat: 1

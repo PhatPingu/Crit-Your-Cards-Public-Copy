@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bf36241c5bf70a042828617e80d7ae92, type: 3}
+  m_Name: Decrease Heal_Test Card
+  m_EditorClassIdentifier: 
+  cardImage: {fileID: 21300000, guid: f297291e7e05338469fe4365735660ad, type: 3}
+  cardName: Decrease Heal_Test Card
+  manaCost: 1
+  cardStrategy: 2
+  cardEffect:
+  - {fileID: 11400000, guid: a731ad7fa7600ce4e8c4480674341ab6, type: 2}
+  - {fileID: 11400000, guid: 4664fbaf51fc04e42910c6e28caea618, type: 2}
+  - {fileID: 11400000, guid: 4664fbaf51fc04e42910c6e28caea618, type: 2}
+  cardColor: 0
+  overrideescription: 
+  displayAttackStat: 0

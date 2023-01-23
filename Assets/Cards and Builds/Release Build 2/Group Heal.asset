@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bf36241c5bf70a042828617e80d7ae92, type: 3}
+  m_Name: Group Heal
+  m_EditorClassIdentifier: 
+  cardImage: {fileID: 21300000, guid: cd3561a90c9a8204bbaa2d2fa3b04e7f, type: 3}
+  cardName: Group Heal
+  manaCost: 4
+  cardStrategy: 1
+  cardEffect:
+  - {fileID: 11400000, guid: 31f5c898e3bfeb04cb28dedfd4215e2d, type: 2}
+  - {fileID: 11400000, guid: b7be29196ef71d04a9dd42043e7d1c9c, type: 2}
+  - {fileID: 11400000, guid: 4664fbaf51fc04e42910c6e28caea618, type: 2}
+  hideTooltip: 000000
+  cardColor: 2
+  overrideescription: 
+  displayAttackStat: 0
+  onHover_HighlightAttack: 0
+  onHover_HighlightDefense: 0
+  onHover_HighlightHealing: 1

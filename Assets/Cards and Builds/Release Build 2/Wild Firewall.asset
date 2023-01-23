@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bf36241c5bf70a042828617e80d7ae92, type: 3}
+  m_Name: Wild Firewall
+  m_EditorClassIdentifier: 
+  cardImage: {fileID: 21300000, guid: 2bc34f3bea8a9e444bb76237dc7ea820, type: 3}
+  cardName: Wild Firewall
+  manaCost: 2
+  cardStrategy: 2
+  cardEffect:
+  - {fileID: 11400000, guid: d3c342d6ac49fc84892b428d5c8811f7, type: 2}
+  - {fileID: 11400000, guid: ba9260a9e2f62ab42865f4d43ca8afc3, type: 2}
+  - {fileID: 11400000, guid: 4664fbaf51fc04e42910c6e28caea618, type: 2}
+  hideTooltip: 000000
+  cardColor: 3
+  overrideescription: "{{color}}<b>Target Gains Taunt</b>{{/color}} \n\n{{color}}<u>If
+    Target is <color=red><b>NOT RED</b></color></u>: \n{{color}}<b>Target Recieves
+    {{modifierAmount}}{{magicColor}} Damage</b>{{/color}}"
+  displayAttackStat: 0
+  onHover_HighlightAttack: 0
+  onHover_HighlightDefense: 0
+  onHover_HighlightHealing: 0

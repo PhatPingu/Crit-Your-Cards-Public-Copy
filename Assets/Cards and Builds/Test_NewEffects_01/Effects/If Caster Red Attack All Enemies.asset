@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: abcaeba53ce50414380b9008d56721b2, type: 3}
+  m_Name: If Caster Red Attack All Enemies
+  m_EditorClassIdentifier: 
+  allowedTarget: 3
+  targetConditional: 8
+  effectCondition: 2
+  modifierAmount: 0
+  ticker: 0
+  overrideTarget: 0
+  description: "{{color}}<u>If Caster is <color=red><b>RED</b></color></u>: \n<b>Attack
+    all enemies.</b>{{/color}}"
+  sfx_effect: {fileID: 0}
+  vfx_effect: {fileID: 0}
+  vfx_isAreaEffect: 1

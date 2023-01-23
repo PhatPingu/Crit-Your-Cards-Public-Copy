@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e65f709c01b451c4590a88fc9f374abd, type: 3}
+  m_Name: Decrease Caster Defense 1
+  m_EditorClassIdentifier: 
+  allowedTarget: 6
+  targetConditional: 0
+  effectCondition: 0
+  modifierAmount: 1
+  ticker: 0
+  overrideTarget: 0
+  description: '{{color}}<b>Caster''s Defense Decrease {{modifierAmount}}</b>{{/color}} '
+  sfx_effect: {fileID: 8300000, guid: 79f3169a1cc6dc145a9728ca998a9fcb, type: 3}
+  vfx_effect: {fileID: 5935217615996467787, guid: a0b5df0436036e54f9384c77f9708eef, type: 3}
+  vfx_isAreaEffect: 0

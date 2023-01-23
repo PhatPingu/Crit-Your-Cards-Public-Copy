@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bf36241c5bf70a042828617e80d7ae92, type: 3}
+  m_Name: Hatred
+  m_EditorClassIdentifier: 
+  cardImage: {fileID: 21300000, guid: aa318c3f927154b459df5a9238c25a3e, type: 3}
+  cardName: Hatred
+  manaCost: 3
+  cardStrategy: 0
+  cardEffect:
+  - {fileID: 11400000, guid: c016cbb1a20ee5f40bbeadf980eee8fa, type: 2}
+  - {fileID: 11400000, guid: c7d4e69c0151c564faf2505fc56dff10, type: 2}
+  - {fileID: 11400000, guid: c7d4e69c0151c564faf2505fc56dff10, type: 2}
+  hideTooltip: 000101
+  cardColor: 3
+  overrideescription: "{{color}}<b>Attack<sprite=\"MagicColors\" index=6></b>{{/color}}
+    \n{{color}}<u>If target is <color=#660066><b>BLACK</b></color></u>: \n<b>Attack
+    Twice More</b>{{/color}}\n\n\n"
+  displayAttackStat: 0
+  onHover_HighlightAttack: 1
+  onHover_HighlightDefense: 0
+  onHover_HighlightHealing: 0

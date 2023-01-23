@@ -1,0 +1,37 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 78d474375b5fb82418e00b18394aac23, type: 3}
+  m_Name: Creature Test 4
+  m_EditorClassIdentifier: 
+  creatureImage: {fileID: 21300000, guid: 2e157de4248024d468b976cb1bcc7717, type: 3}
+  creatureImage_dessaturated: {fileID: 21300000, guid: 6521ac969c9d8184381c9d9a4bc39ba9, type: 3}
+  creatureImage_dead: {fileID: 21300000, guid: 495ab2e1c3c35924894070076e03018d, type: 3}
+  creatureImage_sleeping: {fileID: 21300000, guid: 15b7b99dabd6e424f97ff9d45976712e, type: 3}
+  creatureImage_hidden: {fileID: 21300000, guid: 636c185a0b68e0f4db5038b5517f67c9, type: 3}
+  creatureImageMod_taunting: {fileID: 21300000, guid: c52f3f0a3f1931c49a19cf5d5d52f7c5, type: 3}
+  creatureImageMod_tauntingHidden: {fileID: 21300000, guid: f078d5ceedc1f4a43b47b9422fc13296, type: 3}
+  creatureImage_shielded: {fileID: 21300000, guid: 999b6e8c347fd34458c06a057d0fa259, type: 3}
+  creatureName: Dodgy Bob
+  creatureMaxHealth: 1
+  creatureAttack: 1
+  creatureHeal: 1
+  creatureDefense: 1
+  creatureLevel: 1
+  creatureRareness: 0
+  creatureColor: 0
+  creatureCards_starter:
+  - {fileID: 11400000, guid: 3aadea96a3bdee2408b27d4cdeb20ae0, type: 2}
+  - {fileID: 11400000, guid: cc203105a34ebdf4393f38c8866c250c, type: 2}
+  - {fileID: 11400000, guid: 67d9c23b2d3065d46b4ffc8440269853, type: 2}
+  creatureCards_obtainable: []
+  creatureCards_available: []
+  creatureCards_selectedForUse: []

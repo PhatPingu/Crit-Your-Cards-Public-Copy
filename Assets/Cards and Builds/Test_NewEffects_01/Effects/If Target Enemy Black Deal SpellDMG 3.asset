@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 57ceb6b1e4ccc604bb075bc0189a0228, type: 3}
+  m_Name: If Target Enemy Black Deal SpellDMG 3
+  m_EditorClassIdentifier: 
+  allowedTarget: 2
+  targetConditional: 3
+  effectCondition: 5
+  modifierAmount: 3
+  ticker: 0
+  overrideTarget: 0
+  description: "{{color}}<u>If target is <color=#660066><b>BLACK</b></color></u>:
+    \nDeal {{modifierAmount}}{{magicColor}}</b>{{/color}}"

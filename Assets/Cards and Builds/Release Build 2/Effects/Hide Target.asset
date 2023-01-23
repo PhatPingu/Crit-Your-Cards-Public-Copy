@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: cfaa253afa696ab4e9666e19c796f5de, type: 3}
+  m_Name: Hide Target
+  m_EditorClassIdentifier: 
+  allowedTarget: 0
+  targetConditional: 0
+  effectCondition: 0
+  modifierAmount: 0
+  ticker: 0
+  overrideTarget: 0
+  description: '{{color}}<b>Hide Target.</b>{{/color}} '
+  tooltip: 
+  sfx_effect: {fileID: 0}
+  vfx_effect: {fileID: 1965343156803978, guid: aa8d6482d70a23445b4b2a928ed1b845, type: 3}
+  vfx_isAreaEffect: 0

@@ -1,0 +1,283 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!181963792 &2655988077585873504
+Preset:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: ReleaseBuild2_BattleDataInitialization
+  m_TargetType:
+    m_NativeTypeID: 114
+    m_ManagedTypePPtr: {fileID: 11500000, guid: 1fba9f2eebf2349458ab6ade6d419db4, type: 3}
+    m_ManagedTypeFallback: 
+  m_Properties:
+  - target: {fileID: 0}
+    propertyPath: m_Enabled
+    value: 1
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_EditorHideFlags
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_EditorClassIdentifier
+    value: 
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: GameReferences
+    value: 
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: BattleVictoryManager
+    value: 
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: PlayerDeck
+    value: 
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: PlayerHand
+    value: 
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: PlayerGrave
+    value: 
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: deckDisplay_array.Array.size
+    value: 5
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: deckDisplay_array.Array.data[0]
+    value: 
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: deckDisplay_array.Array.data[1]
+    value: 
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: deckDisplay_array.Array.data[2]
+    value: 
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: deckDisplay_array.Array.data[3]
+    value: 
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: deckDisplay_array.Array.data[4]
+    value: 
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: EnemyDeck
+    value: 
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: EnemyHand
+    value: 
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: EnemyGrave
+    value: 
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: p_creatureList.Array.size
+    value: 3
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: p_creatureList.Array.data[0]
+    value: 
+    objectReference: {fileID: 11400000, guid: b2d961153c18e2c4aaec0ce293964049, type: 2}
+  - target: {fileID: 0}
+    propertyPath: p_creatureList.Array.data[1]
+    value: 
+    objectReference: {fileID: 11400000, guid: 62a53484a3eeaba4ea26c03ce467a509, type: 2}
+  - target: {fileID: 0}
+    propertyPath: p_creatureList.Array.data[2]
+    value: 
+    objectReference: {fileID: 11400000, guid: 6c2ce277f4362504a856aae40ef93aa1, type: 2}
+  - target: {fileID: 0}
+    propertyPath: e_creatureList.Array.size
+    value: 3
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: e_creatureList.Array.data[0]
+    value: 
+    objectReference: {fileID: 11400000, guid: 7fe8e8ef258ed9d47a35128c2c4b2764, type: 2}
+  - target: {fileID: 0}
+    propertyPath: e_creatureList.Array.data[1]
+    value: 
+    objectReference: {fileID: 11400000, guid: d7314dce7030eeb498509001c6a2f80c, type: 2}
+  - target: {fileID: 0}
+    propertyPath: e_creatureList.Array.data[2]
+    value: 
+    objectReference: {fileID: 11400000, guid: 7c64566da68ff5944bf67b717d853449, type: 2}
+  - target: {fileID: 0}
+    propertyPath: EnemyCollection_list.Array.size
+    value: 20
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: EnemyCollection_list.Array.data[0]
+    value: 
+    objectReference: {fileID: 11400000, guid: ed1e07ee2ecf3b348818327fdd0922d1, type: 2}
+  - target: {fileID: 0}
+    propertyPath: EnemyCollection_list.Array.data[1]
+    value: 
+    objectReference: {fileID: 11400000, guid: 14001b4c62c5d9a4d8b6067b2618276a, type: 2}
+  - target: {fileID: 0}
+    propertyPath: EnemyCollection_list.Array.data[2]
+    value: 
+    objectReference: {fileID: 11400000, guid: 7c30212982a5a984fa86dac14841fad5, type: 2}
+  - target: {fileID: 0}
+    propertyPath: EnemyCollection_list.Array.data[3]
+    value: 
+    objectReference: {fileID: 11400000, guid: 690262563fdaa8949a74c81adab76329, type: 2}
+  - target: {fileID: 0}
+    propertyPath: EnemyCollection_list.Array.data[4]
+    value: 
+    objectReference: {fileID: 11400000, guid: 758e83ce9af72794bab6b6a987508e97, type: 2}
+  - target: {fileID: 0}
+    propertyPath: EnemyCollection_list.Array.data[5]
+    value: 
+    objectReference: {fileID: 11400000, guid: 86dba6424b4c02548bc986b434f46562, type: 2}
+  - target: {fileID: 0}
+    propertyPath: EnemyCollection_list.Array.data[6]
+    value: 
+    objectReference: {fileID: 11400000, guid: e05951c1ff7e60845b74f771d1cdd584, type: 2}
+  - target: {fileID: 0}
+    propertyPath: EnemyCollection_list.Array.data[7]
+    value: 
+    objectReference: {fileID: 11400000, guid: 71788bc27a289a243a6cffa903329f0c, type: 2}
+  - target: {fileID: 0}
+    propertyPath: EnemyCollection_list.Array.data[8]
+    value: 
+    objectReference: {fileID: 11400000, guid: bbc8277ca8033e9459e40ef413a30c26, type: 2}
+  - target: {fileID: 0}
+    propertyPath: EnemyCollection_list.Array.data[9]
+    value: 
+    objectReference: {fileID: 11400000, guid: f3eda9a71e4b8144c97e16517b1b9c0e, type: 2}
+  - target: {fileID: 0}
+    propertyPath: EnemyCollection_list.Array.data[10]
+    value: 
+    objectReference: {fileID: 11400000, guid: 343a8ca4acfde104e98059479a8b334e, type: 2}
+  - target: {fileID: 0}
+    propertyPath: EnemyCollection_list.Array.data[11]
+    value: 
+    objectReference: {fileID: 11400000, guid: 343a8ca4acfde104e98059479a8b334e, type: 2}
+  - target: {fileID: 0}
+    propertyPath: EnemyCollection_list.Array.data[12]
+    value: 
+    objectReference: {fileID: 11400000, guid: 750ea2de436e2d743b6812a50dadd1ad, type: 2}
+  - target: {fileID: 0}
+    propertyPath: EnemyCollection_list.Array.data[13]
+    value: 
+    objectReference: {fileID: 11400000, guid: 3019ffc89744c744ba338197cac8b22a, type: 2}
+  - target: {fileID: 0}
+    propertyPath: EnemyCollection_list.Array.data[14]
+    value: 
+    objectReference: {fileID: 11400000, guid: 25bf5b9a13dc2054898f82190e2b6241, type: 2}
+  - target: {fileID: 0}
+    propertyPath: EnemyCollection_list.Array.data[15]
+    value: 
+    objectReference: {fileID: 11400000, guid: 750ea2de436e2d743b6812a50dadd1ad, type: 2}
+  - target: {fileID: 0}
+    propertyPath: EnemyCollection_list.Array.data[16]
+    value: 
+    objectReference: {fileID: 11400000, guid: 14001b4c62c5d9a4d8b6067b2618276a, type: 2}
+  - target: {fileID: 0}
+    propertyPath: EnemyCollection_list.Array.data[17]
+    value: 
+    objectReference: {fileID: 11400000, guid: 86dba6424b4c02548bc986b434f46562, type: 2}
+  - target: {fileID: 0}
+    propertyPath: EnemyCollection_list.Array.data[18]
+    value: 
+    objectReference: {fileID: 11400000, guid: 86dba6424b4c02548bc986b434f46562, type: 2}
+  - target: {fileID: 0}
+    propertyPath: EnemyCollection_list.Array.data[19]
+    value: 
+    objectReference: {fileID: 11400000, guid: 86dba6424b4c02548bc986b434f46562, type: 2}
+  - target: {fileID: 0}
+    propertyPath: PlayerCollection_list.Array.size
+    value: 20
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: PlayerCollection_list.Array.data[0]
+    value: 
+    objectReference: {fileID: 11400000, guid: 7c30212982a5a984fa86dac14841fad5, type: 2}
+  - target: {fileID: 0}
+    propertyPath: PlayerCollection_list.Array.data[1]
+    value: 
+    objectReference: {fileID: 11400000, guid: 86dba6424b4c02548bc986b434f46562, type: 2}
+  - target: {fileID: 0}
+    propertyPath: PlayerCollection_list.Array.data[2]
+    value: 
+    objectReference: {fileID: 11400000, guid: e05951c1ff7e60845b74f771d1cdd584, type: 2}
+  - target: {fileID: 0}
+    propertyPath: PlayerCollection_list.Array.data[3]
+    value: 
+    objectReference: {fileID: 11400000, guid: 690262563fdaa8949a74c81adab76329, type: 2}
+  - target: {fileID: 0}
+    propertyPath: PlayerCollection_list.Array.data[4]
+    value: 
+    objectReference: {fileID: 11400000, guid: 23cbee9b5a79c7d43b7a02ead2311f77, type: 2}
+  - target: {fileID: 0}
+    propertyPath: PlayerCollection_list.Array.data[5]
+    value: 
+    objectReference: {fileID: 11400000, guid: 5acafac061ff4ee4bbc36655dfbeb5ef, type: 2}
+  - target: {fileID: 0}
+    propertyPath: PlayerCollection_list.Array.data[6]
+    value: 
+    objectReference: {fileID: 11400000, guid: f49b138144d03c943b706f0db402ae95, type: 2}
+  - target: {fileID: 0}
+    propertyPath: PlayerCollection_list.Array.data[7]
+    value: 
+    objectReference: {fileID: 11400000, guid: 9fd3d192fba7fdc44b76f5f7c088804e, type: 2}
+  - target: {fileID: 0}
+    propertyPath: PlayerCollection_list.Array.data[8]
+    value: 
+    objectReference: {fileID: 11400000, guid: 2b7d3983a89ce8948a0843eebf7f8fcc, type: 2}
+  - target: {fileID: 0}
+    propertyPath: PlayerCollection_list.Array.data[9]
+    value: 
+    objectReference: {fileID: 11400000, guid: 5c102e6b7f1907249b6e26718dbf5915, type: 2}
+  - target: {fileID: 0}
+    propertyPath: PlayerCollection_list.Array.data[10]
+    value: 
+    objectReference: {fileID: 11400000, guid: f3eda9a71e4b8144c97e16517b1b9c0e, type: 2}
+  - target: {fileID: 0}
+    propertyPath: PlayerCollection_list.Array.data[11]
+    value: 
+    objectReference: {fileID: 11400000, guid: 1c6f119559be881448ef9f1c04518c26, type: 2}
+  - target: {fileID: 0}
+    propertyPath: PlayerCollection_list.Array.data[12]
+    value: 
+    objectReference: {fileID: 11400000, guid: 941eb7b7b76caf64e9de3e377cf700b3, type: 2}
+  - target: {fileID: 0}
+    propertyPath: PlayerCollection_list.Array.data[13]
+    value: 
+    objectReference: {fileID: 11400000, guid: ef2a0926807dc42499bfa5c11fc1b8d5, type: 2}
+  - target: {fileID: 0}
+    propertyPath: PlayerCollection_list.Array.data[14]
+    value: 
+    objectReference: {fileID: 11400000, guid: d62bc71be2d80584b9f17990d3c6b814, type: 2}
+  - target: {fileID: 0}
+    propertyPath: PlayerCollection_list.Array.data[15]
+    value: 
+    objectReference: {fileID: 11400000, guid: 3019ffc89744c744ba338197cac8b22a, type: 2}
+  - target: {fileID: 0}
+    propertyPath: PlayerCollection_list.Array.data[16]
+    value: 
+    objectReference: {fileID: 11400000, guid: 25bf5b9a13dc2054898f82190e2b6241, type: 2}
+  - target: {fileID: 0}
+    propertyPath: PlayerCollection_list.Array.data[17]
+    value: 
+    objectReference: {fileID: 11400000, guid: 86dba6424b4c02548bc986b434f46562, type: 2}
+  - target: {fileID: 0}
+    propertyPath: PlayerCollection_list.Array.data[18]
+    value: 
+    objectReference: {fileID: 11400000, guid: 86dba6424b4c02548bc986b434f46562, type: 2}
+  - target: {fileID: 0}
+    propertyPath: PlayerCollection_list.Array.data[19]
+    value: 
+    objectReference: {fileID: 11400000, guid: 86dba6424b4c02548bc986b434f46562, type: 2}
+  m_ExcludedProperties: []

@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8a9826385b670c74e8c176b6dfd3488a, type: 3}
+  m_Name: Deal Heal to Anyone
+  m_EditorClassIdentifier: 
+  allowedTarget: 4
+  targetConditional: 0
+  effectCondition: 0
+  modifierAmount: 0
+  ticker: 0
+  overrideTarget: 0
+  description: '{{color}}<b>Heal Any Target {{creatureHeal}}<sprite="MagicColors"
+    index=7></b>{{/color}} '
+  sfx_effect: {fileID: 8300000, guid: 79f3169a1cc6dc145a9728ca998a9fcb, type: 3}
+  vfx_effect: {fileID: 100004, guid: 3af6f68141914ca43ba39b2403757bd0, type: 3}

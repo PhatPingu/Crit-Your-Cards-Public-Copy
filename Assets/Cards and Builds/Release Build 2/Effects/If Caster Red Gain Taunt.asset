@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1fb426dd593593f46b554a664e4af966, type: 3}
+  m_Name: If Caster Red Gain Taunt
+  m_EditorClassIdentifier: 
+  allowedTarget: 5
+  targetConditional: 8
+  effectCondition: 2
+  modifierAmount: 0
+  ticker: 0
+  overrideTarget: 0
+  description: "{{color}}<u>If Caster is <color=red><b>RED</b></color></u>: \n{{color}}<b>Gain
+    Taunt\n</b>{{/color}}"
+  tooltip: 
+  sfx_effect: {fileID: 0}
+  vfx_effect: {fileID: 100004, guid: cdf534179f00dfb4993684806add444a, type: 3}
+  vfx_isAreaEffect: 0

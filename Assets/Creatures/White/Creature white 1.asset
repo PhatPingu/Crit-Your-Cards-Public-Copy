@@ -1,0 +1,38 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 78d474375b5fb82418e00b18394aac23, type: 3}
+  m_Name: Creature white 1
+  m_EditorClassIdentifier: 
+  creatureImage: {fileID: 21300000, guid: ab4ab0b30dd482442ae1669d694897c3, type: 3}
+  creatureImage_dessaturated: {fileID: 21300000, guid: cdc2095354f423243b782b3deb6b3df7, type: 3}
+  creatureImage_dead: {fileID: 21300000, guid: 495ab2e1c3c35924894070076e03018d, type: 3}
+  creatureImage_sleeping: {fileID: 21300000, guid: 15b7b99dabd6e424f97ff9d45976712e, type: 3}
+  creatureImage_hidden: {fileID: 21300000, guid: 636c185a0b68e0f4db5038b5517f67c9, type: 3}
+  creatureImageMod_taunting: {fileID: 21300000, guid: c52f3f0a3f1931c49a19cf5d5d52f7c5, type: 3}
+  creatureImageMod_tauntingHidden: {fileID: 21300000, guid: f078d5ceedc1f4a43b47b9422fc13296, type: 3}
+  creatureImage_shielded: {fileID: 21300000, guid: 999b6e8c347fd34458c06a057d0fa259, type: 3}
+  creatureName: Norbit
+  creatureMaxHealth: 20
+  creatureAttack: -1
+  creatureHeal: 5
+  creatureDefense: -1
+  creatureLevel: 0
+  creatureRareness: 0
+  creatureColor: 4
+  creatureCards_starter: []
+  creatureCards_obtainable: []
+  creatureCards_available:
+  - {fileID: 11400000, guid: 1b304e251c486634abadac2d4af385ea, type: 2}
+  - {fileID: 11400000, guid: 67d9c23b2d3065d46b4ffc8440269853, type: 2}
+  - {fileID: 11400000, guid: f559376b577b4af4bb7b5d8093aea518, type: 2}
+  - {fileID: 11400000, guid: 2c7517ceaaf12c94abb243faae214298, type: 2}
+  creatureCards_selectedForUse: []

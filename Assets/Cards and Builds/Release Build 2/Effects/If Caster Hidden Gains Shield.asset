@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 271a32197a1f6ca45a0a94e875236199, type: 3}
+  m_Name: If Caster Hidden Gains Shield
+  m_EditorClassIdentifier: 
+  allowedTarget: 2
+  targetConditional: 8
+  effectCondition: 11
+  modifierAmount: 0
+  ticker: 0
+  overrideTarget: 0
+  description: "{{color}}<u>If Caster is <b>HIDDEN</b></u>: \n<b>Gain Shield</b>{{/color}}"
+  tooltip: 
+  sfx_effect: {fileID: 0}
+  vfx_effect: {fileID: 1652143759095011289, guid: bd1ddeca103b685458101bfc752a1e5e, type: 3}
+  vfx_isAreaEffect: 0

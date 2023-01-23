@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8304015dd8f15f14d9496f7e96659e2e, type: 3}
+  m_Name: If Target Taunted Decrease Target Defense
+  m_EditorClassIdentifier: 
+  allowedTarget: 4
+  targetConditional: 4
+  effectCondition: 12
+  modifierAmount: 1
+  ticker: 0
+  overrideTarget: 0
+  description: "{{color}}<u>If target is <b>TAUNTED</b></u>: \n<b>Decrease Target
+    Defense</b>{{/color}}"
+  tooltip: 
+  sfx_effect: {fileID: 0}
+  vfx_effect: {fileID: 5935217615996467787, guid: a0b5df0436036e54f9384c77f9708eef, type: 3}
+  vfx_isAreaEffect: 0

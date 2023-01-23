@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: 52d46ed8cdad56241a2f354f3ad04c25
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - sfx_effect: {instanceID: 0}
+  - vfx_effect: {fileID: 1280141305896002, guid: 7c387b59bacdbc148984416629bbd688, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

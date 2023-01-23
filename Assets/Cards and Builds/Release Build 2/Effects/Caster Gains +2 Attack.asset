@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 38eb8bf5e2a406a4b8ef210c351f0930, type: 3}
+  m_Name: Caster Gains +2 Attack
+  m_EditorClassIdentifier: 
+  allowedTarget: 5
+  targetConditional: 0
+  effectCondition: 0
+  modifierAmount: 2
+  ticker: 0
+  overrideTarget: 0
+  description: '{{color}}<b>Caster Gains {{modifierAmount}} Attack<sprite="MagicColors"
+    index=6></b>{{/color}} '
+  sfx_effect: {fileID: 8300000, guid: 3b01f96234021614cbb3be7071c8b3f2, type: 3}
+  vfx_effect: {fileID: 5935217615996467787, guid: 90a999b1d645a7443bd0cc6ce765f7d4, type: 3}
+  vfx_isAreaEffect: 0
